@@ -1,31 +1,31 @@
 //=============『 Utama 』================== //
-global.owner = ['6287898307350'] 
+global.owner = ['628152112273'] 
 global.mods = [] 
 global.prems = [] 
 
 //=============『 Info Owner 』============== //
 global.nameowner = 'Gempy⛧⁩⁩'
-global.numberowner = '6287898307350'
-global.instagram = 'https://www.instagram.com/gmpyyy'
-global.github = 'https://github.com/gmpyyy'
-global.dana = '087898307350'
-global.pulsa = '087898307350'
-global.gopay = '-'
+global.numberowner = '628152112273'
+global.instagram = 'https://www.instagram.com/andre_beat20'
+global.github = 'https://github.com/andre_beat20'
+global.dana = '08152112273'
+global.pulsa = '08152112273'
+global.gopay = '08152112273'
 
 //=============『 Info Bot 』=================//
 global.namebot = 'PENTABOT'
-global.gc = 'https://chat.whatsapp.com/ElBB5NrJS637TYqjJLHuk2'
-global.web = 'https://www.youtube.com/channel/UCZoVmApPxtLYgUWwBD4nbCw' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
-global.price1 = '1 bulan = 10.000\n2 Minggu 7.000\n1 Minggu 5.000'
+global.gc = 'Untuk Sekarang Belum Tersedia'
+global.web = 'Belum Tersedia' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
+global.price1 = '1 bulan = 15.000\n2 Minggu 8.000\n1 Minggu 5.000'
 
 //=======『 Tampilan Dan Lainnya 』============//
 global.fotonya1 = 'https://i.postimg.cc/MZjW7hb6/20220707-200605.jpg' //ganti jadi foto bot mu
 global.fotonya2 = 'https://i.postimg.cc/MZjW7hb6/20220707-200605.jpg' //ini juga ganti 
 global.lolkey = 'Papah-Chan' //biar mudah ngegantinya semisal apikeynya expired:v
 global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
-global.wm = 'PENTABOT'
+global.wm = 'BOT NYA ANDRE'
 global.watermark = wm
-global.wm2 = '                     「PENTABOT⁩ 」'
+global.wm2 = '                     「BOT NYA ANDRE⁩ 」'
 global.wm3 = 'Gempy⛧'
 global.htki = '––––––『' 
 global.htka = '』––––––'
